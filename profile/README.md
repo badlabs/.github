@@ -3,7 +3,7 @@
 
 <hr>
 
-![](profile/source/19197542.jpg)
+![](profile/source/19197542-min.jpg)
 
 <hr>
 
