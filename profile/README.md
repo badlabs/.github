@@ -1,3 +1,5 @@
+
+<a href='https://www.freepik.com/vectors/automatic'>Automatic vector created by vectorjuice - www.freepik.com</a>
 <h1 align="center">Hi 👋, we are <b>badlabs</b></h1>
 <h3 align="center">We are creating Open Source trade bots</h3>
 
