@@ -3,7 +3,7 @@
 
 <hr>
 
-![](profile/source/19197542-min.jpg)
+![](https://raw.githubusercontent.com/badlabs/.github/main/profile/source/19197542-min.jpg)
 
 <hr>
 
